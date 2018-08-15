@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/vana/eclipse-workspace/zpp/lib/bcprov-jdk15on-159.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vana/eclipse-workspace/zpp/lib/bcpkix-jdk15on-159.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vana/eclipse-workspace/zpp/lib/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vana/eclipse-workspace/zpp/lib/jdatepicker-1.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vana/eclipse-workspace/zpp/lib/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vana/eclipse-workspace/zpp/lib/X509_2018.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
